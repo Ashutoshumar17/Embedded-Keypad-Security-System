@@ -1,5 +1,6 @@
 ## 📷 Circuit Diagram
-<img width="1536" height="632" alt="Fantastic Kasi" src="https://github.com/user-attachments/assets/f2a14ef1-3392-4967-bc81-ee7b2764a0b4" />
+
+<img width="1536" height="632" alt="Fantastic Kasi" src="https://github.com/user-attachments/assets/f4a387ab-0287-4b80-9e68-dc05415b8d95" />
 
 
 ## Code
