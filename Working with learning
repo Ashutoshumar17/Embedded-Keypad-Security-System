@@ -1,0 +1,15 @@
+## ⚙️ Working Principle
+1. User enters password via keypad.
+2. Arduino compares input with stored password.
+3. If correct → Servo rotates to unlock.
+4. If incorrect → Error message displayed.
+5. After maximum attempts → System blocks temporarily.
+
+
+## 📈 Learning Outcomes
+- Embedded system design
+- Microcontroller interfacing
+- Hardware-software integration
+- Real-time input processing
+
+
